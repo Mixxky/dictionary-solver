@@ -34,6 +34,12 @@ If you don't have the `requests` library installed, you can install it using pip
 pip install requests
 ```
 
+### Install the Required Package on Kali Linux
+If you are using Kali Linux, you can install the `requests` library using the following command:
+```bash
+sudo apt install python3-requests
+```
+
 ## Purpose
 
 This script was created to solve the "Dictionary Attacks" exercise from Hack The Box. It demonstrates how to automate dictionary attacks using Python.
